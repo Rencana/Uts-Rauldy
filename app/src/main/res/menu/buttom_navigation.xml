@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_profil"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Profil" />
+    <item
+        android:id="@+id/nav_kontak"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="Kontak" />
+    <item
+        android:id="@+id/nav_teman"
+        android:icon="@drawable/ic_group_black_24dp"
+        android:title="Teman" />
+
+</menu>
